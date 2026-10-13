@@ -9,7 +9,7 @@ Built as a Spacedrift portfolio demonstration for **finance operations, back-off
 
 Upload a synthetic invoice → extract fields → validate totals → review uncertain values → export approved JSON or CSV.
 
-Process clean and degraded synthetic invoices, correct a uncertain field, and demonstrate that invalid totals never pass silently.
+Process clean and degraded synthetic invoices, correct an uncertain field, and demonstrate that invalid totals never pass silently.
 
 Use synthetic data, identify the demonstration as a demo, and show failure recovery
 alongside the happy path. The objective is a credible discovery conversation with a client.
@@ -89,7 +89,7 @@ Keep client names and case-study claims out of the demo unless authorized.
 
 ## Contact and usage
 
-[Spacedrift](https://spacedrift.in) · [Project enquiries](mailto:spacedrift.contact@gmail.com)
+[Spacedrift](https://spacedrift.in) · [Project enquiries](mailto:lourdu@spacedrift.in)
 
 Copyright © 2026 Spacedrift. No open-source license is granted in this scaffold.
 Select explicit license terms before inviting public code reuse.
